@@ -1,38 +1,155 @@
-.App {
+.heading{
+  color: rgb(219, 175, 118);
+  font-weight: lighter;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.powerhead{
+  text-align: center;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.subhead{
+  color: rgb(190, 238, 238);
+  font-style: inherit;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+}
+.Team{
+  margin: 3% 38% 0% 38%;
+  border: 2px solid rgb(211, 186, 233);
+  border-top: 5px solid rgb(231, 92, 92);
+}
+.teamhead{
+  margin-left: 5%;
+  font-weight: bolder;
+}
+.teampara{
+  margin-left: 5%;
+  font-weight: bolder;
+  color: aquamarine;
+}
+.karma{
+  margin: 3% 38% 0% 38%;
+  border: 2px solid rgb(211, 186, 233);
+  border-top: 5px solid rgb(226, 248, 62);
+}
+.karmahead{
+  margin-left: 5%;
+  font-weight: bolder;
+}
+.karmapara{
+  margin-left: 5%;
+  font-weight: bolder;
+  color: aquamarine;
+}
+.super{
+  margin: -20% 8% 0% 12.5%;
+  float: left;
+  border: 2px solid rgb(211, 186, 233);
+  border-top: 5px solid rgb(31, 156, 239);
+}
+.superhead{
+  margin-left: 5%;
+  font-weight: bolder;
+}
+.superpara{
+  margin-left: 5%;
+  font-weight: bolder;
+  color: aquamarine;
+}
+.cal{
+  margin: -20% 12.5% 0% 8%;
+  float: right;
+  border: 2px solid rgb(211, 186, 233);
+  border-top: 5px solid rgb(30, 8, 156);
+}
+.calhead{
+  margin-left: 5%;
+  font-weight: bolder;
+}
+.calpara{
+  margin-left: 5%;
+  font-weight: bolder;
+  color: aquamarine;
+}
+img{
+  margin-left: 80%;
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+/* @media screen and (min-width:800px){
+  .heading{
+      color: rgb(219, 175, 118);
+      font-weight: lighter;
+      text-align: center;
   }
-  to {
-    transform: rotate(360deg);
+  .powerhead{
+      text-align: center;
   }
-}
+  .subhead{
+      color: rgb(190, 238, 238);
+      font-style: inherit;
+      justify-content: center;
+  }
+  .Team{
+      margin: 3% 38% 0% 38%;
+      border: 2px solid rgb(211, 186, 233);
+      border-top: 5px solid rgb(231, 92, 92);
+      text-align: center;
+  }
+  .teamhead{
+      margin-left: 5%;
+      font-weight: bolder;
+  }
+  .teampara{
+      margin-left: 5%;
+      font-weight: bolder;
+      color: aquamarine;
+  }
+  .karma{
+      margin: 3% 38% 0% 38%;
+      border: 2px solid rgb(211, 186, 233);
+      border-top: 5px solid rgb(226, 248, 62);
+      text-align: center;
+  }
+  .karmahead{
+      margin-left: 5%;
+      font-weight: bolder;
+  }
+  .karmapara{
+      margin-left: 5%;
+      font-weight: bolder;
+      color: aquamarine;
+  }
+  .super{
+      margin: 3% 38% 0% 38%;
+      float: left;
+      border: 2px solid rgb(211, 186, 233);
+      border-top: 5px solid rgb(31, 156, 239);
+      text-align: center;
+  }
+  .superhead{
+      margin-left: 5%;
+      font-weight: bolder;
+  }
+  .superpara{
+      margin-left: 5%;
+      font-weight: bolder;
+      color: aquamarine;
+  }
+  .cal{
+      margin: 3% 38% 0% 38%;
+      float: right;
+      border: 2px solid rgb(211, 186, 233);
+      border-top: 5px solid rgb(30, 8, 156);
+      text-align: center;
+  }
+  .calhead{
+      margin-left: 5%;
+      font-weight: bolder;
+  }
+  .calpara{
+      margin-left: 5%;
+      font-weight: bolder;
+      color: aquamarine;
+  }
+  img{
+      margin-left: 70%;
+  }
+} */
